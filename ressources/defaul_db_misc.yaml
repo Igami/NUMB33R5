@@ -1,0 +1,1389 @@
+misc:
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 1
+    mtype: Flavor
+    name: Apricot
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 2
+    mtype: Flavor
+    name: Bitter Orange Peel
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 3
+    mtype: Flavor
+    name: Blueberry
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 4
+    mtype: Flavor
+    name: Boysenberry
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 5
+    mtype: Water Agent
+    name: Burton Salts
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 6
+    mtype: Water Agent
+    name: Calcium Carbonate
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 7
+    mtype: Water Agent
+    name: Calcium Chloride
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 8
+    mtype: Water Agent
+    name: Campden Tablet
+    notes: ''
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 9
+    mtype: Flavor
+    name: Cherry
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 10
+    mtype: Flavor
+    name: Cranberry
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 11
+    mtype: Water Agent
+    name: Epsom Salt
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 12
+    mtype: Fining
+    name: Gelatin
+    notes: ''
+    time: 0.0
+    use: Secondary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 13
+    mtype: Water Agent
+    name: Gypsum
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 14
+    mtype: Flavor
+    name: Hazelnut
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 15
+    mtype: Flavor
+    name: Heather Tips
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 16
+    mtype: Water Agent
+    name: Instant Water - American
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 17
+    mtype: Water Agent
+    name: Instant Water - Burton on Trent
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 18
+    mtype: Water Agent
+    name: Instant Water - Dortmund
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 19
+    mtype: Water Agent
+    name: Instant Water - Edinburgh
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 20
+    mtype: Water Agent
+    name: Instant Water - London
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 21
+    mtype: Water Agent
+    name: Instant Water - Munich
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 22
+    mtype: Fining
+    name: Irish Moss
+    notes: ''
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 23
+    mtype: Flavor
+    name: IsoHop
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 24
+    mtype: Water Agent
+    name: Kosher Salt
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 25
+    mtype: Water Agent
+    name: Lactic Acid
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 26
+    mtype: Flavor
+    name: Licorice Root
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 27
+    mtype: Flavor
+    name: Oak Chips
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 28
+    mtype: Flavor
+    name: Oak Cubes
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 29
+    mtype: Flavor
+    name: Paradise Seed
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 30
+    mtype: Flavor
+    name: Peach
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 31
+    mtype: Water Agent
+    name: Phosphoric Acid
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 32
+    mtype: Fining
+    name: Polyclar
+    notes: ''
+    time: 0.0
+    use: Secondary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 33
+    mtype: Flavor
+    name: Raspberry
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 34
+    mtype: Fining
+    name: Sparkolloid
+    notes: ''
+    time: 0.0
+    use: Secondary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 35
+    mtype: Fining
+    name: Super Moss
+    notes: ''
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 36
+    mtype: Flavor
+    name: Sweet Orange Peel
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 37
+    mtype: Flavor
+    name: Vanilla Beans
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 38
+    mtype: Fining
+    name: Whirlfloc
+    notes: ''
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 39
+    mtype: Flavor
+    name: Whole Coriander
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 40
+    mtype: Other
+    name: Yeast Nutrient
+    notes: ''
+    time: 0.0
+    use: Primary
+    use_for: ''
+-   amount: 0.01
+    amount_is_weight: 'false'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 41
+    mtype: Water Agent
+    name: pH 5.2 Stabilizer
+    notes: ''
+    time: 0.0
+    use: Mash
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 42
+    mtype: Herb
+    name: Aji Amarillo
+    notes: "Aji Amarillo (Spanish for \u201Cyellow chile\u201D) is a small, yellow-orange\
+        \ chile grown in the Andes, primarily in Peru. They have been described as\
+        \ the single most-important ingredient in Peruvian cuisine. They are quite\
+        \ hot, but have a really nice, bright, fruity flavour."
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 43
+    mtype: Herb
+    name: Ajowan
+    notes: 'Ajowan seed (also known as carom seed) is native to southern India and
+        is used commonly throughout southern Asia and the Middle East.
+
+
+        It smells and tastes a lot like very strong thyme, though slightly more peppery
+        and with a lightly bitter aftertaste. Dry roasting Ajowan or frying it in
+        oil mellows the flavour and brings out a caraway taste.'
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 44
+    mtype: Herb
+    name: Aleppo Chiles
+    notes: Aleppo chiles (sometimes known as halaby peppers) are named after the region
+        in northern Syria where they grow. They have a moderate heat level and a wonderful,
+        complex, fruity flavour.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 45
+    mtype: Spice
+    name: Allspice
+    notes: 'Allspice is a ground mixture of baking spices. In reality, allspice is
+        the berry of the pimento bush, grown mostly in Jamaica. It does, however get
+        its name from the fact that it tastes somewhat like a peppery blend of cinnamon,
+        clove and nutmeg.
+
+
+        Allspice loses its flavour very quickly when ground, its recommend to buy
+        whole berries and grinding them yourself just before using.'
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 46
+    mtype: Herb
+    name: Ancho Chiles
+    notes: When a ripe poblano pepper is dried, it becomes an ancho chile. Anchos
+        are quite mild and are used in all kinds of traditional Mexican cooking. Anchos
+        are deep red-brown and have a wonderful, sweet raisiny flavour that provide
+        lots of personality to food without a lot of heat. These are the most commonly
+        used chile in Mexico.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 47
+    mtype: Herb
+    name: Basil
+    notes: Basil is one of the most commonly used herbs in the world. Basil is mild
+        and has a slight anise flavour.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 48
+    mtype: Herb
+    name: Bay Leaves
+    notes: "Stale leaves have no flavour at all, so if your bay leaves have been sitting\
+        \ in the cupboard for a more than a year it\u2019s time to replace them."
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 49
+    mtype: Herb
+    name: Birch Bark
+    notes: Birch bark has wide-ranging culinary uses. In particular, it is an ingredient
+        in many home-made root beer recipes.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 50
+    mtype: Spice
+    name: Peppercorns, Black
+    notes: They are picked when they are green and unripe, and are sun-dried, a process
+        which ferments the berry and turns it hard and black.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 51
+    mtype: Spice
+    name: Caraway Seeds
+    notes: Caraway seeds have a very distinctive taste and aroma that makes many people
+        think immediately of bread. Caraway has a pungent scent and a warm, bitter
+        flavour. It is often used to flavour pumpernickel and rye bread, crackers,
+        sauerkraut, and pork dishes.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 52
+    mtype: Spice
+    name: Cardamom, Black
+    notes: In a way, it's not fair that this spice has to share its name with the
+        sweet and elegant green cardamom. Black cardamom is a totally different spice,
+        and is not nearly as glamourous. Its pods are large and rough, it has an earthy,
+        smoky flavour and it can never be used as a substitute for the more expensive
+        and popular green variety. It does have its place, though. Black cardamom
+        is used to give depth to Indian cooking, and it can be an important ingredient
+        in many curry masalas.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 53
+    mtype: Spice
+    name: Cardamom, Green
+    notes: Green cardamom is an incredibly versatile spice that enhances both sweet
+        and savoury foods.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 54
+    mtype: Herb
+    name: Cascabel Chiles
+    notes: 'They are brownish-red and quite hard with a moderate heat and a deep,
+        nutty flavour. '
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 55
+    mtype: Spice
+    name: Cayenne Pepper
+    notes: cayenne pepper is very spicy and adds quick heat to any dish.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 56
+    mtype: Herb
+    name: Chicory Root
+    notes: When roasted, chicory roots have a flavour very similar to that of coffee.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 57
+    mtype: Herb
+    name: Chipotle Chiles
+    notes: Chipotle chiles have a distinctive smoky flavour and a moderate heat.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 58
+    mtype: Spice
+    name: Cinnamon
+    notes: Woody sweetness and a nice moderate spiciness.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 59
+    mtype: Flavor
+    name: Citric Acid
+    notes: Citric acid is a mild natural acid found in citrus fruits; it is responsible
+        for the sourness of lemons and limes. In its pure form, citric acid looks
+        pretty much exactly like granulated sugar and acts as a natural preservative
+        and a tart flavouring. It is sometimes used in the making of wine and ice
+        cream, and is widely used in softdrinks, sour candies and other recipes to
+        mimic the flavour of fresh lemon.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 60
+    mtype: Spice
+    name: Cloves
+    notes: Cloves are the most pungent and oily of all spices. They are the unopened
+        buds of the clove tree and have a hot, sharp, bitter flavour. They will easily
+        overpower other flavours, so they must be used very carefully.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 61
+    mtype: Herb
+    name: Cocoa Nibs
+    notes: Cocoa nibs are nothing more than broken chunks of cocoa bean. They are
+        crunchy and nutty, with a bittersweet chocolate flavour.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 62
+    mtype: Spice
+    name: Coriander Seeds
+    notes: Coriander seeds are the dried fruits of the plant we know as cilantro.
+        Their flavour is mild and light. Dry roasting coriander enhances its flavour
+        dramatically.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 63
+    mtype: Herb
+    name: Cubeb Berries
+    notes: "Cubeb comes from a plant in the pepper family and grows almost exclusively\
+        \ in Java and other parts of Indonesia. It has a piney taste when raw, but\
+        \ when cooked it is more warm and pleasant \u2013 reminiscent of allspice."
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 64
+    mtype: Spice
+    name: Cumin
+    notes: Cumin has a warm, earthy flavour sometimes used in Belgian Wits.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 65
+    mtype: Spice
+    name: Fennel Seeds
+    notes: "Fennel seeds are striped and greenish and have a nice licorice flavour\
+        \ that\u2019s stronger than fresh fennel fronds. The flavour is pleasantly\
+        \ bitter, but can be sweetened with dry roasting."
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 66
+    mtype: Herb
+    name: Galangal
+    notes: Galangal is a rhizome that looks a lot like ginger. Its flavour is similar
+        to ginger, but not nearly as spicy and with hints of lemon and cardamom.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 67
+    mtype: Flavor
+    name: Ginger, Candied
+    notes: Candied ginger is a lovely thing, soft, chewy and spicy.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 68
+    mtype: Herb
+    name: Ginger Root
+    notes: Ginger root is used throughout the world in both savoury and sweet dishes.
+        It has a spicy, warm flavour.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 69
+    mtype: Spice
+    name: Grains of Paradise
+    notes: Small reddish-brown seeds are mostly grown on the western coast of Africa
+        and have a flavour that is hot and peppery, but with a fruity note that softens
+        the sharpness. They are white on the inside, and appear as a whitish powder
+        when ground.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 70
+    mtype: Spice
+    name: Peppercorns, Green
+    notes: Green peppercorns are the same as black peppercorns, in that they are picked
+        when green and unripe. But instead of being dried in the sun, they are quickly
+        dehydrated so that they retain their bright green colour and mildly spicy
+        flavour.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 71
+    mtype: Herb
+    name: Guajillo Chiles
+    notes: Guajillo chiles are shiny, deep-reddish and usually between four and six
+        inches long.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 72
+    mtype: Herb
+    name: Habanero Chiles
+    notes: Habanero chiles are among the hottest on the planet. These small, lantern-shaped
+        chiles range in colour from yellow to red and have a tropical, fruity flavour
+        with intense heat.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 73
+    mtype: Flavor
+    name: Juniper Berries
+    notes: The small, blue-black berries of the juniper bush are best known in the
+        culinary world for flavouring gin, and their smell and flavour brings this
+        to mind immediately. Thier piney taste cuts nicely through strong, rich flavours
+        for a pleasant contrast. The berries are always sold whole, but they are soft
+        and easy to crush in a mortar or with the flat of a knife.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 74
+    mtype: Herb
+    name: Lavender
+    notes: These tiny, bright blue flowers have a sweet, floral flavour.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 75
+    mtype: Spice
+    name: Lemon Peel
+    notes: Citrus peels contain loads of essential oils that add an unmistakably sharp
+        tartness to foods.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 76
+    mtype: Herb
+    name: Lime Leaves
+    notes: In terms of flavour, lime leaves have a very distinctive citrusy taste,
+        not necessarily limey, and not quite lemony.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 77
+    mtype: Flavor
+    name: Lime Peel
+    notes: Citrus peels contain loads of essential oils that add an unmistakably sharp
+        tartness to foods.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 78
+    mtype: Spice
+    name: Mace
+    notes: "Mace is possibly the most interesting and unique of all spices. It\u2019\
+        s a little-known fact that mace is from the same seed pod that gives us nutmeg.\
+        \ While nutmeg is the inner seed of the pod, mace is the lacy reddish net\
+        \ that surrounds the outside of the shell. During harvest, the mace is removed\
+        \ whole and dried, at which point it is known as a blade.\n\nMace is very\
+        \ similar to nutmeg in flavour and scent, though a little more delicate and\
+        \ sweet. It is also more expensive, since there is so much less of it in each\
+        \ pod."
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 79
+    mtype: Herb
+    name: Marash Chiles
+    notes: Crushed Marash chiles are very similar to our Aleppo chiles from Syria,
+        but have an even fruitier taste and are ever so slightly less acidic.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 80
+    mtype: Herb
+    name: Mulato Chiles
+    notes: 'Mulato chiles are very similar to ancho chiles: both are dried poblanos,
+        but it is the darker, riper poblanos that become mulatos. This extra ripeness
+        makes mulato chiles darker and sweeter than anchos, and gives them an earthier
+        flavour.'
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 81
+    mtype: Spice
+    name: Nutmeg
+    notes: Nutmeg is the hard inner seed found inside the fruit of a nutmeg tree,
+        and it has one of the most unique and recognizable flavours of all spices.
+        It is warm and woody with hints of pine and clove, very similar to mace, which
+        is part of the same fruit.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 82
+    mtype: Herb
+    name: Pasilla Chiles
+    notes: "When the long, twisted chilaca chile is dried it is called a pasilla chile,\
+        \ or sometimes a \u201Cpasilla negro.\u201D Pasilla means \u201Clittle raisin\u201D\
+        \ and it gets this name from its flavour \u2013 berry and grape with a hint\
+        \ of licorice. Pasilla chiles are long and black."
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 83
+    mtype: Spice
+    name: Peppercorns, Pink
+    notes: Pink peppercorns are not related to actual peppercorns. They are the fruit
+        of the Brazilian pepper tree and are grown in South America. These pink berries
+        are soft and delicate with a papery, brittle shell. They have a fruity flavour
+        that is slightly resinous, similar to juniper berries.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 84
+    mtype: Spice
+    name: Saffron
+    notes: 'Saffron is the most expensive spice on Earth. This is because of the labour
+        involved in growing and harvesting the spice. Saffron is the red-yellow stigma
+        of the crocus flower and must be hand-picked during short annual flowering
+        seasons. Each flower produces only three stigmas, so it takes approximately
+        150 flowers to yield just one gram of dry saffron threads. '
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 85
+    mtype: Herb
+    name: Sanaam Chiles
+    notes: Sanaam chiles are red and flat, and are 2 to 4 inches in length. They have
+        a medium-high heat.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 86
+    mtype: Spice
+    name: Star Anise
+    notes: 'Star anise is undisputedly the prettiest spice of them all. Native to
+        China and Vietnam, star anise is the fruit of an evergreen magnolia tree.
+        The fruits are in the shape of an eight-pointed star, and each point holds
+        a shiny brown seed. Star anise has a sweet, licoricey taste, and is used to
+        flavour several liqueurs such as Sambuca, Galliano and pastis. '
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 87
+    mtype: Spice
+    name: Sumac
+    notes: Sumac is the berry of a shrub that grows in the Mediterranean and parts
+        of the Middle East. It has a tart, fruity flavour, and is used to add acidity
+        to food.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 88
+    mtype: Spice
+    name: Peppercorns, Szechuan
+    notes: Szechuan pepper is the outer husk of the fruit of the Chinese prickly ash
+        tree. The berries are dried and split open, and the bitter seeds inside are
+        discarded. The flavour of Szechuan pepper is very fragrant, lemony and pungent
+        and it has a biting astringency on the tongue
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 89
+    mtype: Herb
+    name: Tien Tsin Chiles
+    notes: Tien Tsin chiles are very hot Chinese chiles that are particularly suited
+        to Hunan and Szechuan cuisines.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 90
+    mtype: Herb
+    name: Tonka Beans
+    notes: Tonka beans are very unusual little beans that grow primarily in the northern
+        part of South America. They share a lot of similarities with vanilla beans,
+        to the point where they are sometimes used as a vanilla substitute. They are
+        black and wrinkly, about an inch long, and have a sweet flavour that is like
+        a combination of vanilla, cloves and cinnamon with a nuttiness reminiscent
+        of almonds. Really delicious and unusual.
+    time: 0.0
+    use: Boil
+    use_for: ''
+-   amount: 0.0
+    amount_is_weight: 'true'
+    deleted: 0
+    display: 1
+    display_scale: -1
+    display_unit: -1
+    folder: ''
+    id: 91
+    mtype: Spice
+    name: Peppercorns, White
+    notes: White peppercorns are picked from the vine when they are almost ripe -
+        much later than black or green peppercorns. When picked, they are a yellowish-pink
+        colour. The peppercorns are treated with water to remove the skin, and then
+        sun-dried. White peppercorns contain less essential oil than black peppercorns,
+        as this is in the skin, so they have less aroma and a sweetish pungency to
+        them.
+    time: 0.0
+    use: Boil
+    use_for: ''

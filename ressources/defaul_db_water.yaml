@@ -1,0 +1,20 @@
+water:
+-   amount: 20.0
+    bicarbonate: 300.0
+    calcium: 295.0
+    chloride: 25.0
+    deleted: 0
+    display: 1
+    folder: ''
+    id: 1
+    magnesium: 45.0
+    name: Burton on Trent, UK
+    notes: '
+
+        Use for distinctive pale ales strongly hopped.  Very hard water accentuates
+        the hops flavor. Example: Bass Ale
+
+        '
+    ph: 8.0
+    sodium: 55.0
+    sulfate: 725.0
